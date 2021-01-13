@@ -35,10 +35,10 @@ namespace DocumentPlagiarismChecker.Comparators.ParagraphWordCounter
         /// </summary>
         /// <returns>The matching's results.</returns>
         public override ComparatorMatchingScore Run(){     
-            //This order is meant to improving performance
+            //Aquest ordre està destinat a millorar el rendiment
             ExcludeSampleExactMatches(); 
-            ExcludeSamplePartialMatches(this.Left, 0.70f);  //TODO: threshold value must be get from settings; check if can be removed
-            ExcludeSamplePartialMatches(this.Right, 0.70f);  //TODO: threshold value must be get from settings; check if can be removed
+            ExcludeSamplePartialMatches(this.Left, 0.70f);  //TODO: el valor llindar ha de ser obtingut de la configuració; comproveu si es pot eliminar
+            ExcludeSamplePartialMatches(this.Right, 0.70f);  //TODO: el valor llindar ha de ser obtingut de la configuració; comproveu si es pot eliminar
             ExcludeExclussionListMatches();
             
             return ComputeMatching(CompareParagraphs(this.Left, this.Right));                                                        
@@ -61,7 +61,7 @@ namespace DocumentPlagiarismChecker.Comparators.ParagraphWordCounter
         }
 
         /// <summary>
-        /// Compares the sample with the given file and exclude the paragraphs that produces a false positive match between the sample an the document.
+        /// Compareu la mostra amb el fitxer donat i excloeu els paràgrafs que produeixen una falsa coincidència positiva entre la mostra i el document.
         /// </summary>
         private void ExcludeSampleExactMatches(){
             if(this.Sample == null) return;
