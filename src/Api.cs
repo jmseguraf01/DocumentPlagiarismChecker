@@ -96,10 +96,27 @@ namespace DocumentPlagiarismChecker
         /// </summary>
         /// <param name="results">A set of file matching scores</param>
         public void WriteOutput(){
-            //TODO: must be selected by settings
-            // TerminalOutput t = new TerminalOutput(this.Settings);
-            // t.Write(this.MatchingResults); version 1
-            var a;
+            private metod tu mama;
+            lo que 
+            comentarios a full
+            /*
+                  _nnnn_
+                  GGGGMMb
+                @p~qp~~qMb
+                M|@||@) M|
+                @,----.JM|
+                JS^\__/  qKL
+                dZP        qKRb
+                dZP          qKKb
+            fZP            SMMb
+            HZM            MMMM
+            FqM            MMMM
+            __| ".        |\dS"qML
+            |    `.       | `' \Zq
+            _)      \.___.,|     .'
+            \____   )MMMMMP|   .'
+                `-'       `--' hjm
+            */
         }
 
         /// <summary>
