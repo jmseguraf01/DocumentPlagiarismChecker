@@ -100,6 +100,7 @@ namespace DocumentPlagiarismChecker
             // TerminalOutput t = new TerminalOutput(this.Settings);
             // t.Write(this.MatchingResults); version 1
             var a;
+            var ivan;
         }
 
         /// <summary>
