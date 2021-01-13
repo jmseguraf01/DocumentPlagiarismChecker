@@ -98,7 +98,8 @@ namespace DocumentPlagiarismChecker
         public void WriteOutput(){
             //TODO: must be selected by settings
             // TerminalOutput t = new TerminalOutput(this.Settings);
-            // t.Write(this.MatchingResults); hibghughjhjk
+            // t.Write(this.MatchingResults); version 1
+            var a;
         }
 
         /// <summary>
