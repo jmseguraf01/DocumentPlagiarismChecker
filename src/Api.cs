@@ -95,6 +95,12 @@ namespace DocumentPlagiarismChecker
         /// Writes the gioven scores to the configured outputs.
         /// </summary>
         /// <param name="results">A set of file matching scores</param>
+        public void WriteOutput(){
+            //TODO: must be selected by settings
+            // TerminalOutput t = new TerminalOutput(this.Settings);
+            // t.Write(this.MatchingResults); version 1
+            var a;
+        }
 
         /// <summary>
         /// Gets all the available Comparators.
