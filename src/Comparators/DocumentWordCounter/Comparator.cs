@@ -31,7 +31,7 @@ namespace DocumentPlagiarismChecker.Comparators.DocumentWordCounter
         }  
         
         /// <summary>
-        /// Cuenta cuántas palabras y cuántas veces aparecen en cada documento y verifica el porcentaje de coincidencia.
+        /// Cuenta cuántas palabras y cuántas veces aparecen en cada documento y verifica el porcentaje de coincidencia. jjjj
         /// </summary>
         /// <returns>The matching's results.</returns>
         public override ComparatorMatchingScore Run(){
