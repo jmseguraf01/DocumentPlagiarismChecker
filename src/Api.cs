@@ -99,8 +99,7 @@ namespace DocumentPlagiarismChecker
             //TODO: must be selected by settings
             // TerminalOutput t = new TerminalOutput(this.Settings);
             // t.Write(this.MatchingResults); version 1
-            var a;
-            var ivan;
+            // Rama Ivan
         }
 
         /// <summary>
