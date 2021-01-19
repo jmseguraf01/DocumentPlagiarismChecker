@@ -95,10 +95,11 @@ namespace DocumentPlagiarismChecker
         /// Writes the gioven scores to the configured outputs.
         /// </summary>
         /// <param name="results">A set of file matching scores</param>
-        public void WriteOutput(){
+        public void WriteOutput() {
             private metod tu mama;
             lo que 
             comentarios a full
+            asdasdasdasdsa
             /*
                   _nnnn_
                   GGGGMMb
