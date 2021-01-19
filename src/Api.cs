@@ -90,7 +90,7 @@ namespace DocumentPlagiarismChecker
             _computed = _total;
             this.MatchingResults = results.Values.ToList();            
         }               
-
+// example
         /// <summary>
         /// Writes the gioven scores to the configured outputs.
         /// </summary>
