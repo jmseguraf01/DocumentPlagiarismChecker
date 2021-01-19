@@ -96,6 +96,7 @@ namespace DocumentPlagiarismChecker
         /// </summary>
         /// <param name="results">A set of file matching scores</param>
         public void WriteOutput() {
+            sadadsadas
             private metod tu mama;
             lo que 
             comentarios a full
