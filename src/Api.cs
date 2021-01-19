@@ -95,8 +95,35 @@ namespace DocumentPlagiarismChecker
         /// Writes the gioven scores to the configured outputs.
         /// </summary>
         /// <param name="results">A set of file matching scores</param>
+<<<<<<< HEAD
         public void WriteOutput(){
             
+=======
+        public void WriteOutput() {
+            sadadsadas
+            private metod tu mama;
+            lo que 
+            comentarios a full
+            asdasdasdasdsa
+            /*
+                  _nnnn_
+                  GGGGMMb
+                @p~qp~~qMb
+                M|@||@) M|
+                @,----.JM|
+                JS^\__/  qKL
+                dZP        qKRb
+                dZP          qKKb
+            fZP            SMMb
+            HZM            MMMM
+            FqM            MMMM
+            __| ".        |\dS"qML
+            |    `.       | `' \Zq
+            _)      \.___.,|     .'
+            \____   )MMMMMP|   .'
+                `-'       `--' hjm
+            */
+>>>>>>> Rama-juanmi
         }
 
         /// <summary>
